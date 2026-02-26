@@ -1,0 +1,10 @@
+# Tidal 自动注册系统依赖
+
+# Selenium - 浏览器自动化
+selenium>=4.15.0
+
+# HTTP请求库
+requests>=2.31.0
+
+# 可选：如果需要更高级的等待功能
+# webdriver-manager>=4.0.0
