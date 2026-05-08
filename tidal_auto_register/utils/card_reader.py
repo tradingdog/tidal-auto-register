@@ -63,6 +63,10 @@ class CardReader:
         """获取持卡人姓名"""
         return self.card_info.get("card_holder", "")
     
+    def get_full_name(self):
+        """获取完整姓名（别名）"""
+        return self.get_card_holder()
+    
     def get_expiry(self):
         """获取有效期（MM/YY格式）"""
         return self.card_info.get("expiry", "")

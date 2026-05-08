@@ -1,0 +1,28 @@
+{"index": 1, "step_name": "步骤1_启动Chrome浏览器完成", "note": "", "file_name": "001_步骤1_启动Chrome浏览器完成_20260508_152455_1778225095725.png", "captured_at": "2026-05-08T15:24:55.915"}
+{"index": 2, "step_name": "TD-PRE-01_link_tidal预检查并等待20秒", "note": "", "file_name": "002_TD-PRE-01_link_tidal预检查并等待20秒_20260508_152529_1778225129515.png", "captured_at": "2026-05-08T15:25:29.719"}
+{"index": 3, "step_name": "TD-00_link_tidal预检查等待20秒后待检查", "note": "", "file_name": "003_TD-00_link_tidal预检查等待20秒后待检查_20260508_152529_1778225129721.png", "captured_at": "2026-05-08T15:25:29.944"}
+{"index": 4, "step_name": "TD-PRE-02_新开tidal主标签并等待10秒", "note": "", "file_name": "004_TD-PRE-02_新开tidal主标签并等待10秒_20260508_152603_1778225163329.png", "captured_at": "2026-05-08T15:26:03.597"}
+{"index": 5, "step_name": "TD-01-COOKIES_Cookie Accept 弹窗", "note": "", "file_name": "005_TD-01-COOKIES_Cookie_Accept_弹窗_20260508_152609_1778225169745.png", "captured_at": "2026-05-08T15:26:10.020"}
+{"index": 6, "step_name": "TD-01_检查首页弹窗完成", "note": "", "file_name": "006_TD-01_检查首页弹窗完成_20260508_152610_1778225170022.png", "captured_at": "2026-05-08T15:26:10.272"}
+{"index": 7, "step_name": "TD-00_Tidal首页访问正常", "note": "", "file_name": "007_TD-00_Tidal首页访问正常_20260508_152612_1778225172149.png", "captured_at": "2026-05-08T15:26:12.322"}
+{"index": 8, "step_name": "步骤2_预检查Tidal首页访问状态完成", "note": "", "file_name": "008_步骤2_预检查Tidal首页访问状态完成_20260508_152612_1778225172325.png", "captured_at": "2026-05-08T15:26:12.515"}
+{"index": 9, "step_name": "EM-01_打开邮箱网站完成", "note": "", "file_name": "009_EM-01_打开邮箱网站完成_20260508_152622_1778225182036.png", "captured_at": "2026-05-08T15:26:22.178"}
+{"index": 10, "step_name": "EM-03_填写邮箱用户名", "note": "", "file_name": "010_EM-03_填写邮箱用户名_20260508_152634_1778225194633.png", "captured_at": "2026-05-08T15:26:34.780"}
+{"index": 11, "step_name": "EM-04_填写邮箱密码", "note": "", "file_name": "011_EM-04_填写邮箱密码_20260508_152635_1778225195063.png", "captured_at": "2026-05-08T15:26:35.203"}
+{"index": 12, "step_name": "EM-05_邮箱登录完成", "note": "", "file_name": "012_EM-05_邮箱登录完成_20260508_152647_1778225207825.png", "captured_at": "2026-05-08T15:26:47.985"}
+{"index": 13, "step_name": "EM-06_选择邮箱后缀", "note": "@jiayun2026.com", "file_name": "013_EM-06_选择邮箱后缀_20260508_152649_1778225209711.png", "captured_at": "2026-05-08T15:26:49.896"}
+{"index": 14, "step_name": "EM-07_点击生成邮箱按钮", "note": "", "file_name": "014_EM-07_点击生成邮箱按钮_20260508_152659_1778225219162.png", "captured_at": "2026-05-08T15:26:59.338"}
+{"index": 15, "step_name": "EM-08_等待邮箱生成10秒完成", "note": "", "file_name": "015_EM-08_等待邮箱生成10秒完成_20260508_152709_1778225229341.png", "captured_at": "2026-05-08T15:27:09.509"}
+{"index": 16, "step_name": "EM-09_点击复制按钮", "note": "", "file_name": "016_EM-09_点击复制按钮_20260508_152720_1778225240771.png", "captured_at": "2026-05-08T15:27:20.947"}
+{"index": 17, "step_name": "EM-10_获取邮箱地址成功", "note": "Brocj@jiayun2026.com", "file_name": "017_EM-10_获取邮箱地址成功_20260508_152722_1778225242444.png", "captured_at": "2026-05-08T15:27:22.724"}
+{"index": 18, "step_name": "步骤3_登录邮箱并创建新邮箱完成", "note": "Brocj@jiayun2026.com", "file_name": "018_步骤3_登录邮箱并创建新邮箱完成_20260508_152722_1778225242726.png", "captured_at": "2026-05-08T15:27:22.901"}
+{"index": 19, "step_name": "OK-01_Create a free account", "note": "", "file_name": "019_OK-01_Create_a_free_account_20260508_152731_1778225251336.png", "captured_at": "2026-05-08T15:27:31.521"}
+{"index": 20, "step_name": "TD-02_注册页邮箱输入框", "note": "", "file_name": "020_TD-02_注册页邮箱输入框_20260508_152738_1778225258062.png", "captured_at": "2026-05-08T15:27:38.216"}
+{"index": 21, "step_name": "TD-02_输入完成", "note": "Brocj@jiayun2026.com", "file_name": "021_TD-02_输入完成_20260508_152749_1778225269344.png", "captured_at": "2026-05-08T15:27:49.552"}
+{"index": 22, "step_name": "TD-04_注册页 Continue 按钮", "note": "", "file_name": "022_TD-04_注册页_Continue_按钮_20260508_152756_1778225276464.png", "captured_at": "2026-05-08T15:27:56.620"}
+{"index": 23, "step_name": "TD-05_注册页密码输入框", "note": "", "file_name": "023_TD-05_注册页密码输入框_20260508_152802_1778225282682.png", "captured_at": "2026-05-08T15:28:02.840"}
+{"index": 24, "step_name": "TD-05_输入完成", "note": "TduLNS13kF$9ye", "file_name": "024_TD-05_输入完成_20260508_152810_1778225290242.png", "captured_at": "2026-05-08T15:28:10.409"}
+{"index": 25, "step_name": "TD-04_注册页 Continue 按钮", "note": "", "file_name": "025_TD-04_注册页_Continue_按钮_20260508_152818_1778225298915.png", "captured_at": "2026-05-08T15:28:19.064"}
+{"index": 26, "step_name": "DOB-01_Day 下拉框", "note": "", "file_name": "026_DOB-01_Day_下拉框_20260508_152825_1778225305680.png", "captured_at": "2026-05-08T15:28:25.884"}
+{"index": 27, "step_name": "DOB-01_下拉选择完成", "note": "key=7,presses=1", "file_name": "027_DOB-01_下拉选择完成_20260508_152827_1778225307027.png", "captured_at": "2026-05-08T15:28:27.160"}
+{"index": 28, "step_name": "异常_程序运行错误", "note": "cannot access local variable 'random' where it is not associated with a value", "file_name": "028_异常_程序运行错误_20260508_152827_1778225307163.png", "captured_at": "2026-05-08T15:28:27.317"}

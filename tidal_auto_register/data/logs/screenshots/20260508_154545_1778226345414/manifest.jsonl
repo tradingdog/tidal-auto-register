@@ -1,0 +1,51 @@
+{"index": 1, "step_name": "步骤1_启动Chrome浏览器完成", "note": "", "file_name": "001_步骤1_启动Chrome浏览器完成_20260508_154559_1778226359353.png", "captured_at": "2026-05-08T15:45:59.564"}
+{"index": 2, "step_name": "TD-PRE-01_link_tidal预检查并等待20秒", "note": "", "file_name": "002_TD-PRE-01_link_tidal预检查并等待20秒_20260508_154632_1778226392428.png", "captured_at": "2026-05-08T15:46:32.710"}
+{"index": 3, "step_name": "TD-00_link_tidal预检查等待20秒后待检查", "note": "", "file_name": "003_TD-00_link_tidal预检查等待20秒后待检查_20260508_154632_1778226392711.png", "captured_at": "2026-05-08T15:46:32.913"}
+{"index": 4, "step_name": "TD-PRE-02_新开tidal主标签并等待10秒", "note": "", "file_name": "004_TD-PRE-02_新开tidal主标签并等待10秒_20260508_154651_1778226411436.png", "captured_at": "2026-05-08T15:46:51.677"}
+{"index": 5, "step_name": "TD-01-COOKIES_Cookie Accept 弹窗", "note": "", "file_name": "005_TD-01-COOKIES_Cookie_Accept_弹窗_20260508_154658_1778226418017.png", "captured_at": "2026-05-08T15:46:58.265"}
+{"index": 6, "step_name": "TD-01_检查首页弹窗完成", "note": "", "file_name": "006_TD-01_检查首页弹窗完成_20260508_154658_1778226418267.png", "captured_at": "2026-05-08T15:46:58.404"}
+{"index": 7, "step_name": "TD-00_Tidal首页访问正常", "note": "", "file_name": "007_TD-00_Tidal首页访问正常_20260508_154659_1778226419633.png", "captured_at": "2026-05-08T15:46:59.813"}
+{"index": 8, "step_name": "步骤2_预检查Tidal首页访问状态完成", "note": "", "file_name": "008_步骤2_预检查Tidal首页访问状态完成_20260508_154659_1778226419814.png", "captured_at": "2026-05-08T15:46:59.957"}
+{"index": 9, "step_name": "EM-01_打开邮箱网站完成", "note": "", "file_name": "009_EM-01_打开邮箱网站完成_20260508_154709_1778226429830.png", "captured_at": "2026-05-08T15:47:09.964"}
+{"index": 10, "step_name": "EM-03_填写邮箱用户名", "note": "", "file_name": "010_EM-03_填写邮箱用户名_20260508_154722_1778226442339.png", "captured_at": "2026-05-08T15:47:22.480"}
+{"index": 11, "step_name": "EM-04_填写邮箱密码", "note": "", "file_name": "011_EM-04_填写邮箱密码_20260508_154722_1778226442716.png", "captured_at": "2026-05-08T15:47:22.876"}
+{"index": 12, "step_name": "EM-05_邮箱登录完成", "note": "", "file_name": "012_EM-05_邮箱登录完成_20260508_154735_1778226455123.png", "captured_at": "2026-05-08T15:47:35.290"}
+{"index": 13, "step_name": "EM-06_选择邮箱后缀", "note": "@yaokongqo.store", "file_name": "013_EM-06_选择邮箱后缀_20260508_154737_1778226457023.png", "captured_at": "2026-05-08T15:47:37.267"}
+{"index": 14, "step_name": "EM-07_点击生成邮箱按钮", "note": "", "file_name": "014_EM-07_点击生成邮箱按钮_20260508_154744_1778226464475.png", "captured_at": "2026-05-08T15:47:44.626"}
+{"index": 15, "step_name": "EM-08_等待邮箱生成10秒完成", "note": "", "file_name": "015_EM-08_等待邮箱生成10秒完成_20260508_154754_1778226474629.png", "captured_at": "2026-05-08T15:47:54.860"}
+{"index": 16, "step_name": "EM-09_点击复制按钮", "note": "", "file_name": "016_EM-09_点击复制按钮_20260508_154804_1778226484491.png", "captured_at": "2026-05-08T15:48:04.756"}
+{"index": 17, "step_name": "EM-10_获取邮箱地址成功", "note": "Ugvmzofsiu@yaokongqo.store", "file_name": "017_EM-10_获取邮箱地址成功_20260508_154806_1778226486090.png", "captured_at": "2026-05-08T15:48:06.261"}
+{"index": 18, "step_name": "步骤3_登录邮箱并创建新邮箱完成", "note": "Ugvmzofsiu@yaokongqo.store", "file_name": "018_步骤3_登录邮箱并创建新邮箱完成_20260508_154806_1778226486264.png", "captured_at": "2026-05-08T15:48:06.428"}
+{"index": 19, "step_name": "OK-01_Create a free account", "note": "", "file_name": "019_OK-01_Create_a_free_account_20260508_154815_1778226495249.png", "captured_at": "2026-05-08T15:48:15.548"}
+{"index": 20, "step_name": "TD-02_注册页邮箱输入框", "note": "", "file_name": "020_TD-02_注册页邮箱输入框_20260508_154825_1778226505942.png", "captured_at": "2026-05-08T15:48:26.099"}
+{"index": 21, "step_name": "TD-02_输入完成", "note": "Ugvmzofsiu@yaokongqo.store", "file_name": "021_TD-02_输入完成_20260508_154837_1778226517490.png", "captured_at": "2026-05-08T15:48:37.661"}
+{"index": 22, "step_name": "TD-04_注册页 Continue 按钮", "note": "", "file_name": "022_TD-04_注册页_Continue_按钮_20260508_154843_1778226523206.png", "captured_at": "2026-05-08T15:48:43.371"}
+{"index": 23, "step_name": "TD-05_注册页密码输入框", "note": "", "file_name": "023_TD-05_注册页密码输入框_20260508_154850_1778226530518.png", "captured_at": "2026-05-08T15:48:50.672"}
+{"index": 24, "step_name": "TD-05_输入完成", "note": "TddYvG$$K2vpav", "file_name": "024_TD-05_输入完成_20260508_154859_1778226539318.png", "captured_at": "2026-05-08T15:48:59.451"}
+{"index": 25, "step_name": "TD-04_注册页 Continue 按钮", "note": "", "file_name": "025_TD-04_注册页_Continue_按钮_20260508_154906_1778226546396.png", "captured_at": "2026-05-08T15:49:06.542"}
+{"index": 26, "step_name": "DOB-01_Day 下拉框", "note": "", "file_name": "026_DOB-01_Day_下拉框_20260508_154914_1778226554494.png", "captured_at": "2026-05-08T15:49:14.664"}
+{"index": 27, "step_name": "DOB-01_下拉选择完成", "note": "key=7,presses=1", "file_name": "027_DOB-01_下拉选择完成_20260508_154915_1778226555776.png", "captured_at": "2026-05-08T15:49:15.943"}
+{"index": 28, "step_name": "DOB-02_Month 下拉框", "note": "", "file_name": "028_DOB-02_Month_下拉框_20260508_154923_1778226563051.png", "captured_at": "2026-05-08T15:49:23.188"}
+{"index": 29, "step_name": "DOB-02_下拉选择完成", "note": "key=s,presses=1", "file_name": "029_DOB-02_下拉选择完成_20260508_154924_1778226564276.png", "captured_at": "2026-05-08T15:49:24.515"}
+{"index": 30, "step_name": "DOB-03_Year 下拉框", "note": "", "file_name": "030_DOB-03_Year_下拉框_20260508_154932_1778226572468.png", "captured_at": "2026-05-08T15:49:32.619"}
+{"index": 31, "step_name": "DOB-03_下拉选择完成", "note": "key=1,presses=10", "file_name": "031_DOB-03_下拉选择完成_20260508_154936_1778226576133.png", "captured_at": "2026-05-08T15:49:36.303"}
+{"index": 32, "step_name": "OK-03_条款复选框", "note": "", "file_name": "032_OK-03_条款复选框_20260508_154944_1778226584400.png", "captured_at": "2026-05-08T15:49:44.553"}
+{"index": 33, "step_name": "OK-04_Sign up 按钮", "note": "", "file_name": "033_OK-04_Sign_up_按钮_20260508_154956_1778226596505.png", "captured_at": "2026-05-08T15:49:56.688"}
+{"index": 34, "step_name": "步骤4_注册Tidal账号完成", "note": "Ugvmzofsiu@yaokongqo.store", "file_name": "034_步骤4_注册Tidal账号完成_20260508_154956_1778226596691.png", "captured_at": "2026-05-08T15:49:56.849"}
+{"index": 35, "step_name": "OK-05_头像图标", "note": "", "file_name": "035_OK-05_头像图标_20260508_155007_1778226607074.png", "captured_at": "2026-05-08T15:50:07.227"}
+{"index": 36, "step_name": "OK-06_Manage subscription", "note": "", "file_name": "036_OK-06_Manage_subscription_20260508_155015_1778226615995.png", "captured_at": "2026-05-08T15:50:16.135"}
+{"index": 37, "step_name": "SUB-01_订阅登录页邮箱输入框", "note": "", "file_name": "037_SUB-01_订阅登录页邮箱输入框_20260508_155031_1778226631667.png", "captured_at": "2026-05-08T15:50:31.839"}
+{"index": 38, "step_name": "SUB-01_输入完成", "note": "Ugvmzofsiu@yaokongqo.store", "file_name": "038_SUB-01_输入完成_20260508_155044_1778226644584.png", "captured_at": "2026-05-08T15:50:44.741"}
+{"index": 39, "step_name": "SUB-02_订阅登录页 Continue 按钮", "note": "", "file_name": "039_SUB-02_订阅登录页_Continue_按钮_20260508_155050_1778226650389.png", "captured_at": "2026-05-08T15:50:50.535"}
+{"index": 40, "step_name": "SUB-03_订阅登录页密码输入框", "note": "", "file_name": "040_SUB-03_订阅登录页密码输入框_20260508_155100_1778226660223.png", "captured_at": "2026-05-08T15:51:00.389"}
+{"index": 41, "step_name": "SUB-03_输入完成", "note": "TddYvG$$K2vpav", "file_name": "041_SUB-03_输入完成_20260508_155108_1778226668722.png", "captured_at": "2026-05-08T15:51:08.863"}
+{"index": 42, "step_name": "SUB-04_Log In 按钮", "note": "", "file_name": "042_SUB-04_Log_In_按钮_20260508_155114_1778226674818.png", "captured_at": "2026-05-08T15:51:15.006"}
+{"index": 43, "step_name": "步骤5_进入订阅页面完成", "note": "", "file_name": "043_步骤5_进入订阅页面完成_20260508_155122_1778226682013.png", "captured_at": "2026-05-08T15:51:22.166"}
+{"index": 44, "step_name": "PLAN-01_View Plan 按钮", "note": "", "file_name": "044_PLAN-01_View_Plan_按钮_20260508_155133_1778226693844.png", "captured_at": "2026-05-08T15:51:33.998"}
+{"index": 45, "step_name": "步骤6_点击ViewPlans完成", "note": "", "file_name": "045_步骤6_点击ViewPlans完成_20260508_155142_1778226702003.png", "captured_at": "2026-05-08T15:51:42.181"}
+{"index": 46, "step_name": "PLAN-02_套餐页 Continue 按钮", "note": "", "file_name": "046_PLAN-02_套餐页_Continue_按钮_20260508_155150_1778226710901.png", "captured_at": "2026-05-08T15:51:51.049"}
+{"index": 47, "step_name": "步骤7_选择订阅计划完成", "note": "", "file_name": "047_步骤7_选择订阅计划完成_20260508_155158_1778226718053.png", "captured_at": "2026-05-08T15:51:58.211"}
+{"index": 48, "step_name": "步骤8_填写并提交支付信息完成", "note": "", "file_name": "048_步骤8_填写并提交支付信息完成_20260508_155455_1778226895846.png", "captured_at": "2026-05-08T15:54:56.013"}
+{"index": 49, "step_name": "EM-14_切换到邮箱标签页", "note": "", "file_name": "049_EM-14_切换到邮箱标签页_20260508_155456_1778226896051.png", "captured_at": "2026-05-08T15:54:56.193"}
+{"index": 50, "step_name": "EM-11_收到并打开Tidal验证邮件", "note": "", "file_name": "050_EM-11_收到并打开Tidal验证邮件_20260508_155557_1778226957060.png", "captured_at": "2026-05-08T15:55:57.256"}
+{"index": 51, "step_name": "异常_程序运行错误", "note": "未能点击验证链接", "file_name": "051_异常_程序运行错误_20260508_155628_1778226988770.png", "captured_at": "2026-05-08T15:56:28.976"}

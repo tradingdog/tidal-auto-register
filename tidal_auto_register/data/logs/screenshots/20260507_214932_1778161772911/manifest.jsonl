@@ -1,0 +1,6 @@
+{"index": 1, "step_name": "步骤1_启动Chrome浏览器完成", "note": "", "file_name": "001_步骤1_启动Chrome浏览器完成_20260507_214936_1778161776386.png", "captured_at": "2026-05-07T21:49:36.566"}
+{"index": 2, "step_name": "TD-00-URL-BAR_Chrome 地址栏", "note": "", "file_name": "002_TD-00-URL-BAR_Chrome_地址栏_20260507_214946_1778161786063.png", "captured_at": "2026-05-07T21:49:46.249"}
+{"index": 3, "step_name": "TD-PRE-01_地址栏输入tidal.com并回车后等待10秒", "note": "", "file_name": "003_TD-PRE-01_地址栏输入tidal.com并回车后等待10秒_20260507_215007_1778161807079.png", "captured_at": "2026-05-07T21:50:07.240"}
+{"index": 4, "step_name": "TD-00_Tidal首页等待10秒后待检查", "note": "", "file_name": "004_TD-00_Tidal首页等待10秒后待检查_20260507_215007_1778161807242.png", "captured_at": "2026-05-07T21:50:07.390"}
+{"index": 5, "step_name": "TD-00_检测到访问暂时受限", "note": "", "file_name": "005_TD-00_检测到访问暂时受限_20260507_215009_1778161809068.png", "captured_at": "2026-05-07T21:50:09.235"}
+{"index": 6, "step_name": "异常_用户手动中断", "note": "", "file_name": "006_异常_用户手动中断_20260507_215148_1778161908585.png", "captured_at": "2026-05-07T21:51:48.686"}
